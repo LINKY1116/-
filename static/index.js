@@ -345,7 +345,7 @@ function shareText(score) {
     if (score <= 99) return '鸡好吃吗?';
     if (score <= 149) return '兄弟萌吃鸡了!';
     if (score <= 199) return '大吉大利，今晚吃鸡!!';
-    return '鸡鸡爆炸!!!';
+    return '鸡哥给你一个么么哒~';
 }
 
 function toStr(obj) {
